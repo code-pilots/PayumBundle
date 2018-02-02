@@ -72,6 +72,12 @@
         "ext-pdo_sqlite": "*",
         "ext-soap": "*"
     },
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/code-pilots/Core.git"
+        }
+    ],
     "suggest": {
         "sonata-project/admin-bundle": "^3 If you want to configure payments in the backend."
     },
