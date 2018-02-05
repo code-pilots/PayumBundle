@@ -36,6 +36,8 @@
             "homepage": "https://github.com/Payum/PayumBundle/contributors"
         }
     ],
+  "minimum-stability": "dev",
+  "prefer-stable": true,
     "require": {
         "php": "^5.5.0|^7.0",
         "payum/core": "dev-1.4.3-BETA1",
